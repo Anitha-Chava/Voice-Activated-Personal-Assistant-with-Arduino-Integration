@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 30 15:40:43 2024
 
-@author: anith
+@author: anitha
 """
 import serial
 import pyttsx3
